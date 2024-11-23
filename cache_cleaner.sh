@@ -26,7 +26,6 @@ MENSAGEM="
             -k remove cache do flatpak
             -p remove packages e repositorios não usados no Arch Linux
             -g remove os logs do /var/log
-            -a remove absolutamente tudo automaticamente
             -v mostra o tamanho do /var
             -d debug mode
         "
